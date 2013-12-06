@@ -9,7 +9,7 @@ env.overwriteOutput = True
 ### THIS IS THE ONLY THING YOU NEED TO MODIFY ###
 #################################################
 #put your file location here between quotes ie. 
-folder_path = "C:/GIS/MapPluto/TEST1"
+folder_path = "C:/GIS/MapPluto/"
 #################################################
 ### THIS IS THE ONLY THING YOU NEED TO MODIFY ###
 #################################################
