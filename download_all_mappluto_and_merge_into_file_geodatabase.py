@@ -54,8 +54,7 @@ for lvar in lvars:
         zipfile.ZipFile(folder_path_dl_M + "/mappluto_" + lvar + l2).extractall(folder_path_dl_M + "/")
         print "Expanding the .zip file for... MapPluto" + lvar
 
-        # BELOW IS OFF FOR NOW, TURN ON LATER
-
+        # Turn the remove script - 3 lines below this - OFF by uncommenting if you'd like to keep the source ZIPS
         #delete the zip file
         os.remove(folder_path_dl_M + "/mappluto_" + lvar + l2)
         print "Deleting the .zip... " + lvar + "'s ZIP file"
