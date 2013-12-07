@@ -10,6 +10,7 @@ Issues
 ======
 
 1) Should I not include the Mappinglots on the merge? Not sure if those should be in the final FGDB? 
+
 2) Turn OFF your checkbox Enable Background Processsing under Geoprocessing -> Options. The Create FileGeodatabase command does not like 64 bit Background Processing for some reason. 
 
 Requirements (or at least what I used successfully) :
