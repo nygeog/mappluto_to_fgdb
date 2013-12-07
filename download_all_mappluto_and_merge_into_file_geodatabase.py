@@ -16,6 +16,8 @@ folder_path = "C:/GIS/MapPluto/"
 
 folder_path_dl = folder_path+"/downloads"
 
+print 'Started entire script at this time: ' + time.strftime('%c') 
+
 def make_sure_path_exists(path):
     try:
         os.makedirs(path)
@@ -135,5 +137,6 @@ for lvar in lvars:
     workspaceUse = folder_path+'/downloads/'+lvar
     theMergeFileUse = folder_path +'/MapPluto.gdb/mappluto_'+lvar+'/mappluto_'+lvar
     recursive_list_fcs(workspaceUse, theMergeFileUse, wild_card=None, feature_type=None)
-
-print "All right, all done. Let me know of any errors, etc. Feel free to delete the 'downloads' folder "
+    
+print 'Ended the entire script at this time: ' + time.strftime('%c') 
+print "All right, all done. Let me know of any errors, how long it took to run completely, etc. Feel free to delete the 'downloads' folder "
