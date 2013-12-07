@@ -30,5 +30,7 @@ Python 2.7
 ArcGIS 10.2
 
 
+Took 58 mins on my machine (Windows 7 virtual on Parallels iMac 32 GB ram (12 GB allocated to Windows). 
+
 
 If you find anything wrong or some part of the script that could be better please contact me. I don't have too much exp. with forking and pushing so if you'd like to modify something please be patient while I figure out how to incorporate your changes
