@@ -15,3 +15,6 @@ Python 2.7
 
 ArcGIS 10.2
 
+
+
+If you find anything wrong or some part of the script that could be better please contact me. I don't have too much exp. with forking and pushing so if you'd like to modify something please be patient while I figure out how to incorporate your changes
