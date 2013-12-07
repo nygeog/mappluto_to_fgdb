@@ -59,7 +59,7 @@ for lvar in lvars:
         os.remove(folder_path_dl_M + "/mappluto_" + lvar + l2)
         print "Deleting the .zip... " + lvar + "'s ZIP file"
 
-        #wait 1 second
+        #wait 
         time.sleep(stop_time)
 
 #create file gdb and feature dataset
