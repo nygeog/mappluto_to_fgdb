@@ -2,7 +2,7 @@ MapPluto (2003 to 2013) to Esri File Geodatabase
 ================
 
 The purpose of this script is to download the newly freely available MapPluto data, extract, merge to a File Geodatabse.
-You can find them here:
+You can find them here: http://www.nyc.gov/html/dcp/html/bytes/archive_pluto_mappluto.shtml
 
 But you don't need to b/c the script will download the files and extract for you (hopefully). 
 
