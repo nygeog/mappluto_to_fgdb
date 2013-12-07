@@ -34,7 +34,7 @@ Time
 ====
 Took 58 mins on my machine (Windows 7 virtual on Parallels iMac (12 GB allocated to Windows) while running from Sublime Text 2. 
 
-May take longer from pasting into ArcGIS python command. 
+May take longer from pasting into ArcGIS python command. Though, I got some weird urllib error. So maybe run in PythonWIN, Idle, Sublime Text 2 (need to save the file somewhere then hit CTRL + B to run the code, you'll have needed to point to Python in your Python-Build see http://stackoverflow.com/questions/8551735/how-do-i-run-python-code-from-sublime-text-2
 
 Time depends on your internet connection for downloads and your processor. 
 
