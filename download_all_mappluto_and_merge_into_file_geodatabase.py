@@ -36,7 +36,7 @@ lvars = ["13v2","13v1","12v2","12v1","11v2","11v1","10v2","10v1","09v2","09v1","
 #test set below, use if you wanna check the script to see if it works before trying
 #lvars = ["13v2","13v1","12v2", "02b"]
 
-stop_time = 1
+stop_time = 5
 
 for lvar in lvars:
     make_sure_path_exists(folder_path_dl+"/"+lvar)
