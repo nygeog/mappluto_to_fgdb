@@ -13,7 +13,7 @@ Issues
 
 2) If running by pasting into ArcGIS Python command window make sure you turn OFF your checkbox Enable Background Processsing under Geoprocessing -> Options. The Create FileGeodatabase command does not like 64 bit Background Processing for some reason. 
 
-Requirements (or at least what I used successfully) :
+Requirements (or at least what I used) :
 =============
 
 Windows 7
