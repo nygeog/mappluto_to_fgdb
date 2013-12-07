@@ -34,7 +34,9 @@ Time
 ====
 Took 58 mins on my machine (Windows 7 virtual on Parallels iMac (12 GB allocated to Windows) while running from Sublime Text 2. 
 
-Took 2 hours from pasting into ArcGIS python command. 
+May take longer from pasting into ArcGIS python command. 
+
+Time depends on your internet connection for downloads and your processor. 
 
 Errors
 =======
