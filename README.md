@@ -19,6 +19,14 @@ Windows 7
 
 Python 2.7
 
+-import os
+
+-import errno
+
+-import re, urllib, time, zipfile, os
+
+-import arcpy
+
 ArcGIS 10.2
 
 
