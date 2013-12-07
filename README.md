@@ -6,6 +6,12 @@ You can find them here:
 
 But you don't need to b/c the script will download the files and extract for you (hopefully). 
 
+Issues
+======
+
+1) Should I not include the Mappinglots on the merge? Not sure if those should be in the final FGDB? 
+
+
 Requirements (or at least what I used successfully) :
 =============
 
