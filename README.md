@@ -11,6 +11,10 @@ Download
 If you don't have the disk space, internet connection or patience - I've just posted the FGDB (I think its 10.2) to Dropbox - not sure how long I'll be able to have it up. So if you don't have 10.2, run the script, the Create File Geodatabase will create a current GDB, I think from 9.3.1 and up, whenever arcpy...
 https://www.dropbox.com/s/8awhycijrs8tf4f/MapPluto.zip
 
+Run with Python.exe (right-click python file), PythonWIN, Idle, Sublime Text 2 - NOT ArcGIS Python Command line
+===================
+Folks are reporting having more issues with urllib and zip python modules in ArcGIS Python Commane line. It's been done successfully, but if you are encountering errors try stand-alone python. 
+
 
 Issues
 ======
