@@ -6,6 +6,12 @@ You can find them here: http://www.nyc.gov/html/dcp/html/bytes/archive_pluto_map
 
 But you don't need to b/c the script will download the files and extract for you (hopefully). 
 
+Download
+========
+If you don't have the disk space, internet connection or patience - I've just posted the FGDB (I think its 10.2) to Dropbox - not sure how long I'll be able to have it up. So if you don't have 10.2, run the script, the Create File Geodatabase will create a current GDB, I think from 9.3.1 and up, whenever arcpy...
+https://www.dropbox.com/s/8awhycijrs8tf4f/MapPluto.zip
+
+
 Issues
 ======
 
