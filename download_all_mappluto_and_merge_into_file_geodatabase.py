@@ -32,7 +32,7 @@ saveloc = folder_path_dl + "/"
 
 l1 = "http://www.nyc.gov/html/dcp/download/bytes/mappluto_"
 l2 = ".zip"
-lvars = ["13v2","13v1","12v2","12v1","11v2","11v1","10v2","10v1","09v2","09v1","07c","06c","05d","04c","03c","02b"]
+lvars = ["14v1","13v2","13v1","12v2","12v1","11v2","11v1","10v2","10v1","09v2","09v1","07c","06c","05d","04c","03c","02b"]
 #test set below, use if you wanna check the script to see if it works before trying
 #lvars = ["13v2","13v1","12v2", "02b"]
 
